@@ -9,13 +9,6 @@
 
 <img src="hero.png" alt="Hero Image: Glowing DNA Helix with RNA RA Hairs in Gel" width="100%"><div align="center">
 
-# 🧬 DNA-RNA Helix Physics Simulator
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/YOURUSERNAME/dna-rna-physics-sim?style=social)](https://github.com/YOURUSERNAME/dna-rna-physics-sim)
-
 
 **Interactive 3D visualization of RNA 'RA Hairs' (R-loop protrusions) invading a DNA double helix under real-time physics forces—thermal noise, gravity sag, inertia lag, pressure squeeze, and sleep/wake oscillations—in a deformable gel matrix. Neon FX, sparks, and scientific manifesto included! 🚀**
 
